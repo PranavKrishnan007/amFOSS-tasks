@@ -50,13 +50,15 @@ by this point I realised that we don't need to seperately make a file and use th
 * CREATED FILE SOLUTION.md 
 ---
  ## Steps used for pushing to git repo
-* git clone [cloning the amfoss task repository]
-* mv /Users/pranavkrishnan/Coordinates-Location/ /Users/pranavkrishnan/amfoss-tasks/task-2/ [for moving the file from the local User to amfoss-tasks cloned repo]
-* git status [for checking if staged]
-* git add Coordinates-Location [for staging the file]
-* git commit -m "message" [for commiting a file]
-* git push origin main [pushing the directory to github repository]
-
-
-
-
+* git clone 
+> cloning the amfoss task repository
+* mv /Users/pranavkrishnan/Coordinates-Location/ /Users/pranavkrishnan/amfoss-tasks/task-2/ 
+> for moving the file from the local User to amfoss-tasks cloned repo
+* git status 
+> for checking if staged
+* git add Coordinates-Location 
+> for staging the file
+* git commit -m "message" 
+> for commiting a file
+* git push origin main 
+> pushing the directory to github repository

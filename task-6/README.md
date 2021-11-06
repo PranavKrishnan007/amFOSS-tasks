@@ -1,1 +1,1 @@
-<p align = "center"><video source ="./task-6.mp4"> 
+<p align="center"><img src="./task-6.gif" alt="sample-ui" width="40%"/></a></p>

@@ -11,4 +11,8 @@
 | Task - 8                                                                        | Incomplete|
 | [Task - 9](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-9)  | Completed |
 | [Task - 10](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-10)| Ongoing   |
-
+| [Task - 11](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-11)| Completed |
+| Task - 12                                                                       | Incomplete|
+| Task - 13 | Incomplete |
+| [Task - 14](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-14)| Completed |
+| Task - 15 | Incomplete |

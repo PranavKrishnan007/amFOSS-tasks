@@ -28,4 +28,4 @@ I am noob at coding, One of the main problems I faced in pretty much every task 
 
 For pretty much all the tasks I first went through all the attached references, then searched for more references till I completed the task.
 
-I came across an awesome quote 😂 : 'There are always different ways to code something .... most of CS is just finding the most efficient and most fastest way to get the job done!'
+I came across an awesome quote: 'There are always different ways to code something .... most of CS is just finding the most efficient and most fastest way to get the job done!'

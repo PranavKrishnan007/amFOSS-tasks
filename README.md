@@ -24,7 +24,7 @@ Pranav Krishnan, ECE-A, 2025 batch 🤓
 
 ## My Approach To Tasks
 
-I am noob at coding, One of the main problems I faced in pretty much every task was with the installation phase as there is always an error regarding access which at many time I had to go fetch individual folders and give permission which was very frustrating.😓
+I am noob at coding, One of the main problems I faced in pretty much every task was with the installation phase as there is always an error regarding 'access'/'permission' which at many time I had to go fetch individual folders and give permission which was very frustrating.😓
 
 For pretty much all the tasks I first went through all the attached references, then searched for more references till I completed the task.
 

@@ -4,15 +4,15 @@
 | [Task - 1](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-1)  | Completed |
 | [Task - 2](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-2)  | Completed |
 | Task - 3                                                                        | Incomplete|
-| Task - 4                                            				  | Incomplete|
+| Task - 4                                            				  | Ongoing |
 | Task - 5                                                                        | Incomplete|
 | [Task - 6](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-6)  | Completed |
 | Task - 7                                                                        | Incomplete|
-| Task - 8                                                                        | Incomplete|
+| Task - 8                                                                        | Ongoing |
 | [Task - 9](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-9)  | Completed |
 | [Task - 10](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-10)| Ongoing   |
 | [Task - 11](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-11)| Completed |
 | Task - 12                                                                       | Incomplete|
 | Task - 13 | Incomplete |
 | [Task - 14](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-14)| Completed |
-| Task - 15 | Incomplete |
+| Task - 15 | Ongoing |

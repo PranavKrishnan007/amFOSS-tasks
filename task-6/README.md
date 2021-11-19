@@ -1,4 +1,4 @@
-# Flutter Based UI 
+# Flutter Based UI 📱 ✨
 
 this task was so much fun to do like every time I made changes to the code and gave it a hot reload and the UI would change 😳
 > and I am suppppeeer sorry I made a mistake ....explained below

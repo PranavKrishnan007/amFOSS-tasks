@@ -20,7 +20,7 @@ Pranav Krishnan, ECE-A, 2025 batch 🤓
 | Task - 12                                                                       |Make the Block| Incomplete|
 | Task - 13 |Circuit Design| Incomplete |
 | [Task - 14](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-14)|Bandit| *Completed* |
-| Task - 15 |Project Euler (for math geeks)| Ongoing |
+| [Task - 15](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-15) |Project Euler (for math geeks)| Ongoing |
 
 ## My Approach To Tasks
 

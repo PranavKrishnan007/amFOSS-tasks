@@ -17,7 +17,7 @@ Pranav Krishnan, ECE-A, 2025 batch 🤓
 | [Task - 9](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-9)  |Setup a Simple Personal Website| Completed |
 | [Task - 10](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-10)|CS50| Ongoing   |
 | [Task - 11](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-11)|Poster Design| *Completed* |
-| Task - 12                                                                       |Make the Block| Incomplete|
+| [Task - 12](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-12)|Make the Block| Ongoing |
 | Task - 13 |Circuit Design| Incomplete |
 | [Task - 14](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-14)|Bandit| *Completed* |
 | [Task - 15](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-15) |Project Euler (for math geeks)| Ongoing |

@@ -34,6 +34,6 @@ I came across an awesome quote: 'There are always different ways to code somethi
 
 hello, I'm Pranav, I have some experience in coding but not too much 😓 ... I've been a "computer and information technology prefect" in my school for 2 years like in class 8th or something when they used to teach us HTML and I was relatively better than my peers at it lol, but yeah I took CS in class 12th so I do have some base in CS. 
 
-I love reading about new tech stuff both hardware and software ... Even if I don't necessarily understand everything I generally give it a read regardless 😹
+I love reading about new tech stuff both hardware and software ... Even if I don't necessarily understand everything, I generally give it a read regardless 😹
 
 I'm curious in nature, I generally waste a lot of time just searching about random useless info at times(which I subjectively find interesting). Thats why I kinda loved doing the tasks because they introduced me to stuff which I didn't know off or how to do. (+ the intro to the world of linux) ✨

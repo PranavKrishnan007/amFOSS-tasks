@@ -26,7 +26,7 @@ Pranav Krishnan, ECE-A, 2025 batch 🤓
 
 I am noob at coding, One of the main problems I faced in pretty much every task was with the installation phase as there is always an error regarding 'access'/'permission' which at many time I had to go fetch individual folders and give permission which was very frustrating.😓
 
-For pretty much all the tasks I first went through all the attached references, then searched for more references till I completed the task.
+For pretty much all the tasks I first went through all the attached references, then searched for more references and tutorials till I completed the task.
 
 I came across an awesome quote: 'There are always different ways to code something .... most of CS is just finding the most efficient and most fastest way to get the job done!'
 

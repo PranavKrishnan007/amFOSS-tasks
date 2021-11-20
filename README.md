@@ -9,7 +9,7 @@ Pranav Krishnan, ECE-A, 2025 batch 🤓
 | [Task - 1](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-1)  |Star all the amFOSS repositories| *Completed* |
 | [Task - 2](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-2)  |Begin your journey with Linux and Git| *Completed* |
 | Task - 3                                                                        |Programming| Incomplete|
-| Task - 4                                            				  |Aerglo Mars| Ongoing |
+| [Task - 4](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-4)  |Aerglo Mars| Ongoing |
 | Task - 5                                                                        |Let me C| Incomplete|
 | [Task - 6](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-6)  | Flutter based UI task| *Completed* |
 | Task - 7                                                                        |Rich Scraper| Incomplete|

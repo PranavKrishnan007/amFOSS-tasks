@@ -1,4 +1,4 @@
-# Amfoss Tasks 
+# amFOSS Tasks 
 
 Pranav Krishnan, ECE-A, 2025 batch 🤓
 

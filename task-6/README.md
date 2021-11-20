@@ -1,6 +1,7 @@
 # Flutter Based UI 📱 ✨
 
-this task was so much fun to do like every time I made changes to the code and gave it a hot reload and the UI would change 😳
+This task was so much fun to do like every time I made changes to the code and gave it a hot reload and the UI would change 😳
+I used both the ios emulator which comes with xcode as well as my phone for testing purposes. ✌🏾
 > and I am suppppeeer sorry I made a mistake ....explained below
 
 <p align="center"><img src="./task-6.gif" alt="sample-ui" width="250" height="500"/></a></p>
